@@ -1,4 +1,4 @@
-# Kubernetes Atlanta Meetup
+# Kubernetes Atlanta Meetup: January 2020
 
 - Date: 01.29.2020
 - Location:
