@@ -1,4 +1,4 @@
-# Kubernetes Atlanta Meetup
+# Kubernetes Atlanta Meetup: <Month Year>
 
 - Date: <date as MM.DD.YYYY>
 - Location:
