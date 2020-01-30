@@ -8,7 +8,6 @@
 - Hosts: 
     - @alex.b
     - @phenixblue
-    - @coyle
 
 ## This Month in Kubernetes
 
