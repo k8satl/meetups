@@ -30,6 +30,8 @@
 
 ## Meetup Links
 
+- Solo.io is sponsoring a raffle for three copies of Christian's book, Istio In Action. Please sign up here if you will be attending and would like to be included in the raffle: http://bit.ly/AtlantaK8-Jan2020
+
 ## Meetup Slides
 
 ## Meetup Recordings
