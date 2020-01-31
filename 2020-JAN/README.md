@@ -33,4 +33,6 @@
 
 ## Meetup Slides
 
+- https://www.slideshare.net/ceposta/kubernetes-ingress-to-service-mesh-and-beyond
+
 ## Meetup Recordings
