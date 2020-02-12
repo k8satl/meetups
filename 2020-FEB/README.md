@@ -12,6 +12,11 @@
 
 ## This Month in Kubernetes
 
+- Work has begun on a [containerd implementation using firecracker microVM manager](https://github.com/firecracker-microvm/firecracker-containerd), Amazon's lightweight VMM,
+  incorporating hypervisor capabilities as an additional security feature for workload isolation. Similar work
+	has been done with rkt (now likely mothballed), and active projects including gVisor from google, and kata containers from openstack.
+
+
 ## Meetup Links
 
 ## Meetup Slides
