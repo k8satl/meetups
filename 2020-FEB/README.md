@@ -24,6 +24,7 @@
         - [kubectl debug](https://github.com/kubernetes/enhancements/issues/1441)
 - [Architecting Kubernetes clusters — how many should you have?](https://learnk8s.io/how-many-clusters)
 - [CPU limits and aggressive throttling in Kubernetes](https://medium.com/omio-engineering/cpu-limits-and-aggressive-throttling-in-kubernetes-c5b20bd8a718)
+- [Comparing managed kubernetes offerings: EKS vs GKE vs AKS](https://www.stackrox.com/post/2020/02/eks-vs-gke-vs-aks/)
 - [AppProtocol on Service and Endpoints Ports merged to k/k master](https://github.com/kubernetes/kubernetes/pull/88503)
     - Associated [KEP](https://github.com/kubernetes/enhancements/blob/master/keps/sig-network/20191227-app-protocol.md)
 
