@@ -34,6 +34,12 @@
 - [AppProtocol on Service and Endpoints Ports merged to k/k master](https://github.com/kubernetes/kubernetes/pull/88503)
     - Associated [KEP](https://github.com/kubernetes/enhancements/blob/master/keps/sig-network/20191227-app-protocol.md)
 
+## Docs / Guides 
+
+-  [Troubleshooting Kubernetes deployments pdf file](./docs/troubleshooting-kubernetes.pdf)
+	-  [Credits - Learnk8s](https://learnk8s.io/troubleshooting-deployments)
+
+
 ## Meetup Links
 
 ## Meetup Slides
