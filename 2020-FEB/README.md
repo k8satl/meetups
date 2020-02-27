@@ -36,7 +36,7 @@
 
 ## Docs / Guides 
 
--  [Troubleshooting Kubernetes deployments pdf file](./docs/troubleshooting-kubernetes.pdf)
+-  [Troubleshooting Kubernetes deployments pdf file](https://github.com/nikhilgorantla/docs/blob/master/troubleshooting-kubernetes.pdf)
 	-  [Credits - Learnk8s](https://learnk8s.io/troubleshooting-deployments)
 
 
