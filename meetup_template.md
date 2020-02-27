@@ -1,10 +1,11 @@
-# Kubernetes Atlanta Meetup: <Month Year>
+# Kubernetes Atlanta Meetup: <!--Month Year-->
 
-- Date: <date as MM.DD.YYYY>
+- Date: <!--date as MM.DD.YYYY-->
 - Location:
     - Salesloft HQ Atlanta
 - Speakers:
-    - <speaker name/company>
+    - <!--presentation title-->
+    - <!--speaker name/company-->
 - Hosts:
     - @alex.b
     - @phenixblue
