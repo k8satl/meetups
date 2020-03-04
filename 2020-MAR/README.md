@@ -12,6 +12,7 @@
     - @coyle
 
 ## This Month in Kubernetes
+- [Starting June 6, 2020, GKE clusters will accrue a management fee of $0.10 per cluster per hour (~$73/month).](https://cloud.google.com/kubernetes-engine/pricing)
 
 ## Meetup Links
 
