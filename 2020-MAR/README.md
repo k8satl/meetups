@@ -22,6 +22,8 @@
 
 ## This Month in Kubernetes
 - [Starting June 6, 2020, GKE clusters will accrue a management fee of $0.10 per cluster per hour (~$73/month).](https://cloud.google.com/kubernetes-engine/pricing)
+- [AWS Releases Container-oriented linux distribution called "Bottle Rocket" with minimal install footprint, in preview for EKS](https://github.com/bottlerocket-os/bottlerocket)
+- [AWS Releases EKS for 1.15](https://aws.amazon.com/about-aws/whats-new/2020/03/amazon-eks-now-supports-kubernetes-version-1-15/)
 
 ## Meetup Links
 
