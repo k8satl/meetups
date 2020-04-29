@@ -21,7 +21,19 @@
 - [Sidecar containers delayed until 1.19](https://github.com/kubernetes/enhancements/issues/753#issuecomment-595692347)
 
 ## Meetup Links
+- [Meetup.com event](https://www.meetup.com/Kubernetes-Atlanta-Meetup/events/270205693/)
 
 ## Meetup Slides
 
 ## Meetup Recordings
+
+## Meetup Notes
+### Who's hiring
+- RealTheory is hiring: 
+ - Open Roles – K8s Dev/Ops, Frontend Dev, Backend (.Net Core or Go), ML
+ - All roles – 5 hours per week only. Work anytime.
+ - Contact – Lawrence Guillory – LG@RealTheory.io
+
+- Spaceship is hiring!  
+ - Roles: https://www.notion.so/onspaceship/Careers-at-Spaceship-ce7e56262044459eab24c9d8b97ec29e
+ - Homepage: spaceship.run
