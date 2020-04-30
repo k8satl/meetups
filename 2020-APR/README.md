@@ -11,6 +11,7 @@
     - Joe Searcy(@phenixblue)
 
 ## This Month in Kubernetes
+
 - [CFP is open for Kubecon in Boston](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/program/cfp/#general-info)
 - [Contour is applying to be donated to the CNCF](https://github.com/cncf/toc/pull/330)
 - WebAssembly filters in Alpha for Envoy and Istio
@@ -21,20 +22,25 @@
 - [Sidecar containers delayed until 1.19](https://github.com/kubernetes/enhancements/issues/753#issuecomment-595692347)
 
 ## Meetup Links
+
 - [Meetup.com event](https://www.meetup.com/Kubernetes-Atlanta-Meetup/events/270205693/)
+- [Joe's CAPI Demo Repo](https://github.com/phenixblue/capi-demo)
 
 ## Meetup Slides
+
+- https://slides.com/phenixblue/turtles-all-the-way-down-cluster-api
 
 ## Meetup Recordings
 
 ## Meetup Notes
 
-### Who's hiring
+## Who's Hiring
+
 - RealTheory is hiring: 
   - Open Roles – K8s Dev/Ops, Frontend Dev, Backend (.Net Core or Go), ML
   - All roles – 5 hours per week only. Work anytime.
   - Contact – Lawrence Guillory – LG@RealTheory.io
 
-- Spaceship is hiring!
+- Spaceship is hiring:
   - Roles: https://www.notion.so/onspaceship/Careers-at-Spaceship-ce7e56262044459eab24c9d8b97ec29e
   - Homepage: spaceship.run
