@@ -31,6 +31,7 @@
 - https://slides.com/phenixblue/turtles-all-the-way-down-cluster-api
 
 ## Meetup Recordings
+- [Youtube](https://www.youtube.com/watch?v=dRGX7FhRAuU)
 
 ## Meetup Notes
 
