@@ -23,6 +23,11 @@
 - [Harbor 2.0](https://goharbor.io/blog/harbor-2.0/)
   - Moving to being an artifact registry for all "Cloud native artifacts". Helm charts, OPA policies etc
 - [Helm is now a graduated CNCF project](https://www.cncf.io/announcement/2020/04/30/cloud-native-computing-foundation-announces-helm-graduation/)
+- [T-Mobile joins CNCF as gold member](https://www.cncf.io/announcement/2020/05/27/cloud-native-computing-foundation-welcomes-t-mobile-as-gold-member/)
+- [Update kubernetes to klog v2](https://github.com/kubernetes/kubernetes/pull/90183)
+- [kubelet no longer registers "beta.kubernetes.io/os" and "beta.kubernetes.io/arch" node labels to apiserver](https://github.com/kubernetes/kubernetes/pull/91046)
+- [1.19.0-beta.0 is published](https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG/CHANGELOG-1.19.md/#v1190-beta0)
+    - K8s 1.19 Freeze Exceptions due June 1
 
 ## Meetup Links
 
