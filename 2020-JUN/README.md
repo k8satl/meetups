@@ -1,0 +1,24 @@
+# Kubernetes Atlanta Meetup: June 2020
+
+- Date: <!--date as MM.DD.YYYY-->
+- Location:
+    - TBD
+- Speakers:
+    - <!--presentation title-->
+    - <!--speaker name/company-->
+- Hosts:
+    - @alex.b
+    - @phenixblue
+    - @coyle
+
+## This Month in Kubernetes
+
+- There is an interesting effort to implement non-standard kubelets put forward by a consortium at (https://github.com/virtual-kubelet)
+	The idea seems to be around running pods as things like fargate instances, but one new project, elotl, actually launches right-sized
+	ec2 instances on a per-pod level, based on the pod memory/instance request: https://github.com/elotl/kip
+
+## Meetup Links
+
+## Meetup Slides
+
+## Meetup Recordings
