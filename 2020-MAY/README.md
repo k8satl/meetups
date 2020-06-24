@@ -15,6 +15,7 @@
     - @phenixblue
 
 ## This Month in Kubernetes
+
 - [Istio 1.6](https://istio.io/news/releases/1.6.x/announcing-1.6/)
   - Canary deployment for Control Plane
   - Improvements around bridging to non-K8s environments
@@ -30,11 +31,13 @@
     - K8s 1.19 Freeze Exceptions due June 1
 
 ## Meetup Links
+
 - [Meetup.com Event](https://www.meetup.com/Kubernetes-Atlanta-Meetup/events/270769741/)
 
 ## Meetup Slides
 
 ## Meetup Recordings
+
 - [Recording on Youtube](https://www.youtube.com/watch?v=loNeKvNbQCg)
 
 ## Meetup Notes
@@ -43,4 +46,6 @@
 
 - Spaceship is still hiring. We're looking for a systems programmer to work heavily with k8s in Go. I don't have a posting anywhere, but you can reach me and my co-founder Patrick at founders@spaceship.run.
 
-- RealTheory is hiring: Open Roles – Frontend, Backend (.Net Core or Go), ML All roles – 5 hours per week only. Work anytime. Contact – Lawrence Guillory – LG@RealTheory.io
+- RealTheory is hiring: Open Roles – Frontend, Backend (.Net Core or Go), ML All roles – 5 hours per week only. Work anytime. Contact – Lawrence Guillory – LG@RealTheory.io
+
+###### tags: `meetup` `may` `2020`
