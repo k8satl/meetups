@@ -20,9 +20,9 @@
         - [Blog on Ingress updates for K8s 1.18](https://kubernetes.io/blog/2020/06/05/supporting-the-evolving-ingress-specification-in-kubernetes-1.18/)
 - **General Community News**
     - [Kubernetes Docs get a facelift](https://kubernetes.io/blog/2020/06/better-docs-ux-with-docsy/)
-    - There is an interesting effort to implement non-standard kubelets put forward by a consortium at (https://github.com/virtual-kubelet)
-	The idea seems to be around running pods as things like fargate instances, but one new project, elotl, actually launches right-sized
-	ec2 instances on a per-pod level, based on the pod memory/instance request: https://github.com/elotl/kip
+    - New project making use of Virtual Kubelet
+        - There is an interesting effort to implement non-standard kubelets put forward by a consortium at (https://github.com/virtual-kubelet). The idea seems to be around running pods as things like fargate instances, but one new project, [elotl](https://github.com/elotl/kip), actually launches right-sized
+	ec2 instances on a per-pod level, based on the pod memory/instance request
     - [Analysis of Kubernetes history with Data Science and Machine Learning](https://kubernetes.io/blog/2020/05/my-exciting-journey-into-kubernetes-history/)
     - [Kubernetes Secret Store CSI Driver](https://github.com/kubernetes-sigs/secrets-store-csi-driver)
     - [GKE Cluster scaled to 15,000 nodes](https://cloud.google.com/blog/products/containers-kubernetes/google-kubernetes-engine-clusters-can-have-up-to-15000-nodes)
