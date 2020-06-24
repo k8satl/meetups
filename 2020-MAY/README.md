@@ -48,4 +48,4 @@
 
 - RealTheory is hiring: Open Roles – Frontend, Backend (.Net Core or Go), ML All roles – 5 hours per week only. Work anytime. Contact – Lawrence Guillory – LG@RealTheory.io
 
-###### tags: `meetup` `may` `2020`
+###### tags: `meetup` `2020` `may`
