@@ -1,15 +1,14 @@
 # Kubernetes Atlanta Meetup: June 2020
 
-- Date: <!--date as MM.DD.YYYY-->
+- Date: 06.24.2020<!--date as MM.DD.YYYY-->
 - Location:
-    - TBD
+    - Virtual via Zoom
 - Speakers:
-    - <!--presentation title-->
-    - <!--speaker name/company-->
+    - Multi-Cluster Service Mesh with Linkerd 
+      - Charles Pretzer (Buoyant.io)<!--presentation title-->
 - Hosts:
     - @alex.b
     - @phenixblue
-    - @coyle
 
 ## This Month in Kubernetes
 
@@ -22,3 +21,5 @@
 ## Meetup Slides
 
 ## Meetup Recordings
+
+###### tags: `meetup` `june` `2020` `linkerd` `servie mesh`
