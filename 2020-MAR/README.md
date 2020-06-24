@@ -10,6 +10,8 @@
     - The meeting will be taking place on the 1st floor.
     - Public access to the parking deck is located between the Ravinia One and Two buildings. Turn on Ravinia Drive from Ashford Dunwoody Rd, and take the first right (behind Starbucks), then turn left between the One and Two buildings. When you drive between the buildings, use the Deck on the left and park in any spot marked as "visitor" or not marked as "reserved". Parking will be validated upon arrival at the T-Mobile front desk until 30 min after the meetup starts. The cost is $4 after that. 
 
+**!!! This meetup was cancelled due to the COVID-10 pandemic. We will work to schedule the speakers for a future meetup !!!**
+
 - Sponsers: 
     - SalesLoft & T-Mobile
 - Speakers:
@@ -33,3 +35,5 @@
 ## Meetup Slides
 
 ## Meetup Recordings
+
+###### tags: `meetup` `2020` `march`
