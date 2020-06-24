@@ -22,4 +22,4 @@
 
 ## Meetup Recordings
 
-###### tags: `meetup` `june` `2020` `linkerd` `servie mesh`
+###### tags: `meetup` `2020` `june` `linkerd` `servie mesh`
