@@ -18,7 +18,7 @@
     - [Ingress moving to GA!!!](https://github.com/kubernetes/kubernetes/pull/89778)
         - [KEP](https://github.com/kubernetes/enhancements/blob/master/keps/sig-network/20190125-ingress-api-group.md)
         - [Blog on Ingress updates for K8s 1.18](https://kubernetes.io/blog/2020/06/05/supporting-the-evolving-ingress-specification-in-kubernetes-1.18/)
-- **General COmmunity News**
+- **General Community News**
     - [Kubernetes Docs get a facelift](https://kubernetes.io/blog/2020/06/better-docs-ux-with-docsy/)
     - There is an interesting effort to implement non-standard kubelets put forward by a consortium at (https://github.com/virtual-kubelet)
 	The idea seems to be around running pods as things like fargate instances, but one new project, elotl, actually launches right-sized
