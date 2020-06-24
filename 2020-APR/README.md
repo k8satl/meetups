@@ -45,3 +45,5 @@
 - Spaceship is hiring:
   - Roles: https://www.notion.so/onspaceship/Careers-at-Spaceship-ce7e56262044459eab24c9d8b97ec29e
   - Homepage: spaceship.run
+
+###### tags: `meetup` `april` `2020`
