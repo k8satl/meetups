@@ -35,4 +35,13 @@
 
 ## Meetup Recordings
 
+## Meetup Notes
+
+### Who's Hiring
+
+- [Roadie](www.roadie.com) is looking for a strong SRE. Please reach out to [Joel Baxter](mailto:joel@roadie.com), Head of Technical Operations @ Roadie
+  - https://boards.greenhouse.io/roadie/jobs/4623837002
+- Datastax is hiring for a number of cloud ops/eng roles. Please reach out to [Eldon Stegall](mailto:eldon.stegall@datastax.com)
+  - https://www.smartrecruiters.com/DataStax/743999713486581-sr-software-engineer-cloud-ops-remote-us
+
 ###### tags: `meetup` `2020` `june` `linkerd` `service mesh`
