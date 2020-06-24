@@ -18,3 +18,5 @@
 ## Meetup Slides
 
 ## Meetup Recordings
+
+###### tags: `meetup` <!--Add additional tags for `year`, `month` and anything else pertinent-->
