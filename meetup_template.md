@@ -19,4 +19,10 @@
 
 ## Meetup Recordings
 
+## Meetup Notes
+
+### Who's Hiring 
+
+<!--Companyname: Positions hiring for (link to hiring page), Contact Name/email/etc-->
+
 ###### tags: `meetup` <!--Add additional tags for `year`, `month` and anything else pertinent-->
