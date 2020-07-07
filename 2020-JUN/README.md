@@ -33,6 +33,8 @@
 
 ## Meetup Slides
 
+- [Multi-Cluster Service Mesh with Linkerd](https://www.slideshare.net/JoeSearcy1/multicluster-service-mesh-with-linkerd-charles-pretzer-buoyant)
+
 ## Meetup Recordings
 - [Youtube](https://www.youtube.com/watch?v=pUEpCHd-Q0k)
 
