@@ -1,19 +1,20 @@
 # Kubernetes Atlanta Meetup: July 2020<!--Month Year-->
 
-- Date: 07.29.2020<!--date as MM.DD.YYYY-->
-- Location:
-    - Virtual via [Zoom](https://salesloft.zoom.us/j/96208221548)
-- Speakers:
+- **Date: 07.29.2020**<!--date as MM.DD.YYYY-->
+- **Location:**
+    - [Virtual via Zoom](https://www.meetup.com/Kubernetes-Atlanta-Meetup/events/271771682/)
+      - NOTE: You must login to meetup to view the Zoom link
+- **Speakers:**
     - How Cloud-Native Broke Dev (and Tilt fixes it)<!--presentation title-->
         - Dan Bentley (Tilt)<!--speaker name/company-->
-- Hosts:
+- **Hosts:**
     - @alex.b
     - @phenixblue
 
 ## This Month in Kubernetes
 
 - **Kubernetes Release Info**
-    - We are still in [extended code freeze](https://groups.google.com/g/kubernetes-dev/c/4V5-ORCwoUM) due to ongoing [stability issues](https://github.com/kubernetes/kubernetes/issues?q=is%3Aissue+is%3Aopen+label%3Apriority%2Fcritical-urgent) with 1.19. Fix those failing tests, folks!
+    - We are still in [extended code freeze](https://groups.google.com/g/kubernetes-dev/c/4V5-ORCwoUM) due to ongoing [stability issues](https://github.com/kubernetes/kubernetes/issues?q=is%3Aissue+is%3Aopen+label%3Apriority%2Fcritical-urgent) with 1.19
     - [#90187: Implement server-side apply upgrade and downgrade](https://github.com/kubernetes/kubernetes/pull/90187)
     - [#90949: Add seccomp least privilege for kuberuntime](https://github.com/kubernetes/kubernetes/pull/90949)
     - [#92784: generic ephemeral inline volumes](https://github.com/kubernetes/kubernetes/pull/92784)
@@ -32,8 +33,6 @@
 - We got a [shoutout](https://github.com/vmware-tanzu/tgik/tree/master/episodes/125) on [TGIK!!!](https://tgik.io)
 
 ## Meetup Links
-
-- [Meetup.com Event](https://www.meetup.com/Kubernetes-Atlanta-Meetup/events/271771682/)
 
 ## Meetup Slides
 
