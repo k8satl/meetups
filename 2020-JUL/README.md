@@ -5,6 +5,8 @@
     - [Virtual via Zoom](https://www.meetup.com/Kubernetes-Atlanta-Meetup/events/271771682/)
       - NOTE: You must login to meetup to view the Zoom link
 - **Speakers:**
+    - 10 Minutes with Typhoon Lightning Talk
+        - Eldon Stegall
     - How Cloud-Native Broke Dev (and Tilt fixes it)<!--presentation title-->
         - Dan Bentley (Tilt)<!--speaker name/company-->
 - **Hosts:**
