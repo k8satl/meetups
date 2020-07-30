@@ -52,5 +52,4 @@
 - [Kubernetes Made Simple: An Overview of DigitalOcean Kubernetes](https://www.digitalocean.com/community/tech_talks/kubernetes-made-simple-an-overview-of-digitalocean-kubernetes)
     - Digital Ocean is hosting a beginner-oriented one hour talk about their DOKS managed Kubernetes offering at 13:00 ET on August 5th. The link above will take you to a registration page with more details for anyone who might be interested in attending.
 
-
 ###### tags: `meetup`, `2020`, `july`, `tilt`, `ci/cd`, `pipeline` <!--Add additional tags for `year`, `month` and anything else pertinent-->
