@@ -37,8 +37,10 @@
 ## Meetup Links
 
 ## Meetup Slides
+- [Dan's slides](https://docs.google.com/presentation/d/1RGbxzaWoZyh2JEWLpFk4eiz8HOCJlCh1_uSxHqVqRnU/edit)
 
 ## Meetup Recordings
+- [Video on Youtube](https://youtu.be/QLyu-SUdTqQ)
 
 ## Meetup Notes
 
