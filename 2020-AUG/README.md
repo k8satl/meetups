@@ -38,6 +38,12 @@
 - **Kubernetes Release Info**
     - [Kubernetes v1.19 should be released today!!!](https://github.com/kubernetes/sig-release/pull/1191)
     - [v1.19 Release Notes](https://github.com/kubernetes/sig-release/pull/1194/files)
+    - **Features of note**
+        - [Deprecation Warnings](https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG/CHANGELOG-1.19.md#deprecation-warnings)
+        - [No more permanenet beta (I'm looking at you Ingress)](https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG/CHANGELOG-1.19.md#avoiding-permanent-beta)
+        - [Speaking of Ingress not being Beta](https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG/CHANGELOG-1.19.md#ingress-graduates-to-general-availability)
+        - [Debugging tools](https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG/CHANGELOG-1.19.md#expanded-cli-support-for-debugging-workloads-and-nodes)
+        - [Endpoint Slices are now on by default](https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG/CHANGELOG-1.19.md#endpointslices-are-now-enabled-by-default)
 - **Community News**
     - [Hierarchical Namespaces](https://kubernetes.io/blog/2020/08/14/introducing-hierarchical-namespaces/)
         - https://github.com/kubernetes-sigs/multi-tenancy/blob/master/incubator/hnc/docs/user-guide/concepts.md#basic
@@ -47,7 +53,7 @@
         - [API Doc](https://github.com/kubernetes-sigs/application/blob/master/docs/api.md)
         - [Example Wordpress Application](https://github.com/kubernetes-sigs/application/blob/master/docs/examples/wordpress/application.yaml)
     - [What happens when....Kubernetes Edition](https://github.com/jamiehannaford/what-happens-when-k8s)
-  
+
 ## Meetup Links
 
 ## Meetup Slides
