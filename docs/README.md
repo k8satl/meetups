@@ -17,6 +17,7 @@
   - Tweet about it from your personal account & @k8satl account
   - Post tweets on tech404 slack #meetups and #kubernetes channels
 - Send out email to speaker(s) to confirm day/time/attendance for meetup
+- Ask speaker's preference for Q&A (hold until end or interactive)
 
 ## After Meetup
 
