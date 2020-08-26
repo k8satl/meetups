@@ -6,7 +6,7 @@ This is where we keep track of the ongoings of the [Kubernetes Atlanta Meetup](h
 
 ## Suggestion for Topics
 
-Please open an issue if you have a sggestion for a topic you'd like to see at one of out meetups. We will rely on thumbs up votes on the issue to rank interest, so campaign for votes if needed!
+Please open an issue if you have a suggestion for a topic you'd like to see at one of out meetups. We will rely on thumbs up votes on the issue to rank interest, so campaign for votes if needed!
 
 ## Interested in Speaking
 
