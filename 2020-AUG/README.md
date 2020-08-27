@@ -59,11 +59,54 @@
 ## Meetup Slides
 
 ## Meetup Recordings
+- [On youtube](https://www.youtube.com/watch?v=a0F66F6zKY4)
 
 ## Meetup Notes
 
 ### Who's Hiring 
 
-<!--Company Name: Positions hiring for (link to hiring page), Contact Name/email/etc-->
+- Sysdig: https://sysdig.com/jobs/
+    - Contact: pop@sysdig.com
+
+- OpsMX: OpsMX is hiring
+
+- Square:
+    - https://jobs.smartrecruiters.com/ni/Square/18cbbd16-7098-408d-99a2-842f577a2d68
+    - Contact: agoldsmith@squareup.com
+    - converting to Kubernetes from our homegrown deployment tooling
+
+- Vecima Networks is hiring.
+    - We have a hyper-converged storage / video platform running Docker and moving to Kube soon.
+    - Contact: jeremy.pullen@vecima.com
+
+
+- Tock: Full Stack and Front End Developers at exploretock.com. Java and Javascript running in GCP and GKE.
+    - located in Chicago, but they’re open to fully distributed folks (I’m in ATL and will continue to be for the foreseeable future).
+    - https://www.exploretock.com/join/careers/senior-software-engineer and https://www.exploretock.com/join/careers/senior-software-engineer-frontend
+    - Contact: dylan@tockhq.com
+
+- RealTheory is hiring.
+    - .NET Core, Golang, AWS, K8s.
+    - Work anytime, anywhere
+    - Only requires 5 hours a week.
+    - If interested, email amazing@realtheory.io
+
+- NCR is hiring
+    - Contact Rashed.Kamal (rashed.kamal@ncr.com)
+
+    - R0098954 Cloud Native Developer (Open)
+      https://ncr.wd1.myworkdayjobs.com/ext_us/job/ATLANTA-GA-USA/Cloud-Native-Developer_R0098954-1
+
+    - R0098955 Cloud Native Developer (Open)
+      https://ncr.wd1.myworkdayjobs.com/ext_us/job/ATLANTA-GA-USA/Cloud-Native-Developer_R0098955
+
+- Flamingo Sec
+    - Container Security engineering position
+    - email to contact@flamingosec.com 
+    - Startup K8 Security advisory services
+
+- VMware
+    - VMware is hiring a Tanzu Systems Engineer: https://rolp.co/gGVjj
+    - Can contact edarby@vmware.com
 
 ###### tags: `meetup`, `2020`, `august`, `gitops`, `jenking`, `ci/cd`, `spinnaker` <!--Add additional tags for `year`, `month` and anything else pertinent-->
