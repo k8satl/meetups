@@ -1,8 +1,9 @@
-# Kubernetes Atlanta Meetup: <!--Month Year-->
+# Kubernetes Atlanta Meetup: September 2020<!--Month Year-->
 
 - **Date:** <!--date as MM.DD.YYYY-->
 - **Location:**
-    - Salesloft HQ Atlanta
+    - [Virtual via Zoom](#)
+    - NOTE: You must login to Meetup to view the Zoom link
 - **Speakers:**
     - <!--presentation title-->
     - <!--speaker name/company-->
@@ -24,4 +25,4 @@
 
 <!--Company Name: Positions hiring for (link to hiring page), Contact Name/email/etc-->
 
-###### tags: `meetup` <!--Add additional tags for `year`, `month` and anything else pertinent-->
+###### tags: `meetup`, `2020`, `september` <!--Add additional tags for `year`, `month` and anything else pertinent-->
