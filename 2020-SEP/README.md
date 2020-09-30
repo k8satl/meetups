@@ -46,6 +46,7 @@
     - [CNCF End User Technology Radar](https://radar.cncf.io/overview)
     - [KubeCon EU 2020 Videos are all up](https://www.youtube.com/playlist?list=PLj6h78yzYM2O1wlsM-Ma-RYhfT5LKq0XC)
     - [For the lazy YAML'ers](https://k8syaml.com/)
+    - The better Paas: [Pizza-as-a-Service](https://github.com/rudoi/cruster-api)
 
 ## Meetup Links
 
