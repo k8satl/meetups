@@ -53,10 +53,17 @@
 ## Meetup Slides
 
 ## Meetup Recordings
+- [On youtube](https://www.youtube.com/watch?v=-LoI1SYRnRw)
 
 ## Meetup Notes
 
 ### Who's Hiring 
+- Carbon Relay:
+    - Head of Open Source - Carbon Relay, plus multiple various opportunities in the company
+    - Contact: cody@carbonrelay.com
+
+- Sysdig:
+    - Customer Reliability engineers: https://sysdig.com/jobs/customer-reliability-engineer-east-2256723/
 
 <!--Company Name: Positions hiring for (link to hiring page), Contact Name/email/etc-->
 
