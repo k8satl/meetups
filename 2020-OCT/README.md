@@ -28,7 +28,32 @@
 ## This Month in Kubernetes
 
 - Kubernetes Release Info
-    - 
+    - About halfway through the 1.20 release cycle.
+    - Still targeting December 8th for release
+    - Currently tracking 55 enhancements
+    - Next Deadline: Nov 2: Final feature exceptions
+    - 1.20-alpha3 released
+    - 1.20-beta0 was scheduled for Oct 27, but seems to be pushed back
+    - Fix Releases ([details on specific fixes merged](http://lwkd.info/2020/20201013))
+        - v1.19.3
+        - v1.18.10
+        - v1.17.3
+- PR's of Note
+    - [Dual stack nodes are now a thing!](https://github.com/kubernetes/kubernetes/pull/95239)
+    - [Don't log secrets](https://github.com/kubernetes/kubernetes/pull/95316)
+- Community News
+    - [Kubernetes Steering Committee Election Results](https://kubernetes.io/blog/2020/10/12/steering-committee-results-2020/)
+        - Congrats to Davanum Srinivas (@dims), Jordan Liggitt (@liggit), and Bob Killen (@mrbobbytables)
+    - [Kubernetes Release Cadence](https://groups.google.com/g/kubernetes-dev/c/luW11nhLds4)
+    - CNCF Acceptance/Graduation
+        - [Rook celebrates is Graduation](https://www.cncf.io/announcements/2020/10/07/cloud-native-computing-foundation-announces-rook-graduation/)
+    - KubeCon NA 2020
+        - [Schedule is out](https://www.cncf.io/announcements/2020/10/01/cloud-native-computing-foundation-releases-schedule-for-kubecon-cloudnativecon-north-america-2020-virtual/)
+    - Interesting Projects
+        - [Admirality](https://github.com/admiraltyio/admiralty) - Cross Cluster Workload Scheduler
+        - [Kraan](https://github.com/fidelity/kraan) - Layered approach for Kubernetes addons
+        - [iSKan](https://github.com/alcideio/iskan) - Kubernetes Native Image Scanning
+        - [Tracee](https://github.com/aquasecurity/tracee) - Container and system event tracing using eBPF
 
 ## Meetup Links
 
