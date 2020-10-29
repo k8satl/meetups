@@ -60,6 +60,7 @@
 ## Meetup Slides
 
 ## Meetup Recordings
+- [Youtube](https://www.youtube.com/watch?v=U5_Q4clmNT8)
 
 ## Meetup Notes
 
