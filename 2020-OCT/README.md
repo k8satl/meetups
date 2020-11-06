@@ -59,6 +59,8 @@
 
 ## Meetup Slides
 
+- [OPA @ T-Mobile](https://slides.com/phenixblue/opa-at-tmus)
+
 ## Meetup Recordings
 - [Youtube](https://www.youtube.com/watch?v=U5_Q4clmNT8)
 
