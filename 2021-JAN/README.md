@@ -51,7 +51,7 @@
         - Makes use of Kubebuilder declarative pattern
     - Envoy 1.17.0 released
         - [Release Notes](https://www.envoyproxy.io/docs/envoy/v1.17.0/version_history/current)
-    - ListWatch() Explained - https://www.mgasch.com/2021/01/listwatch-prologue/
+    - [The Anatomy of Kubernetes ListWatch(): Prologue](https://www.mgasch.com/2021/01/listwatch-prologue/)
     - [https://www.k8sref.io](https://www.k8sref.io)
         - [Blog](https://kubernetes.io/blog/2020/12/04/gsod-2020-improving-api-reference-experience/)
     - [Kubernetes Global Balancer](https://www.k8gb.io)
