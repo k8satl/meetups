@@ -1,4 +1,4 @@
-# Kubernetes Atlanta Meetup: <!--Month Year-->
+# Kubernetes Atlanta Meetup: January 2021<!--Month Year-->
 
 - **Date:** 01.27.2021<!--date as MM.DD.YYYY-->
 - **Location:**
