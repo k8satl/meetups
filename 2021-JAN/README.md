@@ -30,6 +30,7 @@
     - Pod Security Policies
         - Deprecated in k8s 1.21, marked for removal in 1.25
         - [PR (includes links to meeting minutes, docs, and presentation)](https://github.com/kubernetes/kubernetes/pull/97171)
+        - [Some further discussions](https://groups.google.com/g/kubernetes-sig-auth/c/a7zPYU-IRAA)
 - Community News
     - [aledbf stepped down as maintainer of ingress-nginx](https://github.com/kubernetes/ingress-nginx/pull/6729)
         - We want to take a moment to echo a lot of the community sentiments in how much of an impact aledbf has had on the nginx-ingress project and the overall Kubernetes ecosystem. Thank you for all that you've done!
