@@ -31,7 +31,7 @@
         - Deprecated in k8s 1.21, marked for removal in 1.25
         - [PR (includes links to meeting minutes, docs, and presentation)](https://github.com/kubernetes/kubernetes/pull/97171)
 - Community News
-    - [aledbf step down from ingress-nginx](https://github.com/kubernetes/ingress-nginx/pull/6729)
+    - [aledbf stepped down as maintainer of ingress-nginx](https://github.com/kubernetes/ingress-nginx/pull/6729)
         - We want to take a moment to echo a lot of the community sentiments in how much of an impact aledbf has had on the nginx-ingress project and the overall Kubernetes ecosystem. Thank you for all that you've done!
         - Project is looking for new Maintainers
     - [kube-state-metrics](https://github.com/kubernetes/kube-state-metrics/) Project is looking for new Maintainers
