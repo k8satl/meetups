@@ -4,8 +4,9 @@
 - **Location:**
     - [Virtual via Zoom](https://www.meetup.com/Kubernetes-Atlanta-Meetup/events/275682440/)
 - **Speakers:**
-    - Cluster API With a Bit of PXE Dust: bringing cloud-native declarative management of Kubernetes clusters into the datacenter<!--presentation title-->
-        - Jason DeTiberus @ Packet (an Equinix company)<!--speaker name/company-->
+    - **Cluster API With a Bit of PXE Dust:** `bringing cloud-native declarative management of Kubernetes clusters into the datacenter`<!--presentation title-->
+        
+        **Jason DeTiberus** @ **Packet (an Equinix company)**<!--speaker name/company-->
     
         Jason is a Senior Staff Engineer at Packet (an Equinix company), where he brings cloud-native infrastructure management into the datacenter.
 
