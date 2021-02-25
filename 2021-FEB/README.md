@@ -57,6 +57,7 @@
 ## Meetup Links
 
 - [Sample Code from Casey](https://github.com/cmwylie19/envoy-kube-talk)
+- [Frontend Code from Casey](https://github.com/cmwylie19/envoy-kube-talk-frontend)
 
 ## Meetup Slides
 
