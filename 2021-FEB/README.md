@@ -35,7 +35,7 @@
 - Kubernetes Release Info
     - 1.21.0-beta.0 released
     - Next Deadline: March 1 - [Feature Blog Inclusion](https://docs.google.com/spreadsheets/d/1-rFkGmpyDN39gY2M_RX6Ugs_AIig9GXw1FkRLWWmWfw/edit?ts=6023741c#gid=0)
-    - Fix Releases (Big fix only, no CVE's)
+    - Fix Releases (Bug fix only, no CVE's)
         - v1.20.4
         - v1.19.8
         - v1.18.16
@@ -48,13 +48,15 @@
         - [Many v1beta1 API's going away in v1.22 (ie. CRD's, webhooks, etc.)](https://groups.google.com/g/kubernetes-dev/c/z_AE1EHhZF4)
 - Community News
     - [Persistnt Memory CSI Driver](https://github.com/intel/pmem-csi)
-    - [Gatekeeper COmmunity Policy Library](https://github.com/open-policy-agent/gatekeeper-library)
+    - [Gatekeeper Community Policy Library](https://github.com/open-policy-agent/gatekeeper-library)
     - [Kubernetes Resource Filter](https://github.com/ryane/kfilt)
     - [KinD multi-cluster routing](https://gist.github.com/aojea/00bca6390f5f67c0a30db6acacf3ea91#multiple-clusters)
     - [Network Policy Visualizer/Editor](https://editor.cilium.io)
     - [Controller Rate Limiting](https://danielmangum.com/posts/controller-runtime-client-go-rate-limiting/)
 
 ## Meetup Links
+
+- [Sample Code from Casey](https://github.com/cmwylie19/envoy-kube-talk)
 
 ## Meetup Slides
 
