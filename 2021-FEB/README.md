@@ -62,11 +62,15 @@
 ## Meetup Slides
 
 ## Meetup Recordings
+- [Youtube](https://youtu.be/TojHJ_Ey0sY)
 
 ## Meetup Notes
 
 ### Who's Hiring 
+- Trend Micro has a few positions available In Canada for Dev, DevOps and Security Engineer roles to work with AWS, EKS, Containers, Kubernetes, etc. https://trendmicro.wd3.myworkdayjobs.com/External/5/refreshFacet/318c8bb6f553100021d223d9780d30be
 
-<!--Company Name: Positions hiring for (link to hiring page), Contact Name/email/etc-->
+- AgencySpotter is looking for a Director of Engineering.
+https://angel.co/company/agency-spotter/jobs/11585-director-of-engineering
+andrew@agencyspotter.com (Lead Developer) brian@agencyspotter.com (CEO)
 
 ###### tags: `meetup` <!--Add additional tags for `year`, `month` and anything else pertinent-->
