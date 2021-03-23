@@ -1,6 +1,6 @@
 # Kubernetes Atlanta Meetup: March 2021<!--Month Year-->
 
-- **Date:** 03.23.2021<!--date as MM.DD.YYYY-->
+- **Date:** 03.24.2021<!--date as MM.DD.YYYY-->
 - **Location:**
     - [Virtual via Zoom](#)
 - **Speakers:**
