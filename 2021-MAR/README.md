@@ -41,6 +41,9 @@
 - Deprections
     - [Kube-DNS support removed from kubeadm](https://github.com/kubernetes/kubernetes/pull/99646)
 - Community News
+    - [Klustered: Kubernetes experts trying to fix clusters broken by other Kubernetes experts](https://www.youtube.com/playlist?list=PLz0t90fOInA5IyhoT96WhycPV8Km-WICj)
+    - [Pinniped Authentication service for Kubernetes](https://pinniped.dev/docs/)
+        - [Blog](https://pinniped.dev/posts/multiple-pinnipeds/)
 
 ## Meetup Links
 
