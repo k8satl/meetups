@@ -50,11 +50,13 @@
 ## Meetup Slides
 
 ## Meetup Recordings
+- [Youtube](https://youtu.be/2mMED_7XatQ)
 
 ## Meetup Notes
 
 ### Who's Hiring 
+  - Spaceship is hiring! SRE and engineering roles. We're building a Continuous Delivery platform using Buildpacks and Kubernetes. Details and job openings are here:  https://www.notion.so/onspaceship/Careers-Spaceship-ce7e56262044459eab24c9d8b97ec29e
 
-<!--Company Name: Positions hiring for (link to hiring page), Contact Name/email/etc-->
+  - StormForge is looking for a Frontend Engineer: https://jobs.lever.co/stormforge/860aa644-9d91-4362-8920-da00c3dd9727
 
 ###### tags: `meetup` <!--Add additional tags for `year`, `month` and anything else pertinent-->
