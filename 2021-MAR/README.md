@@ -2,7 +2,7 @@
 
 - **Date:** 03.24.2021<!--date as MM.DD.YYYY-->
 - **Location:**
-    - [Virtual via Zoom](#)
+    - [Virtual via Zoom](https://www.meetup.com/Kubernetes-Atlanta-Meetup/events/276996976/)
 - **Speakers:**
     - **Introduction to OpenTelemetry - Austin Parker @ Lightstep**
 
@@ -47,7 +47,12 @@
 
 ## Meetup Links
 
+- [Link to Tracing Instrumentation Notes - MagTape Demo](https://github.com/phenixblue/magtape/tree/otel-tracing/tracing)
+- [Link to Instrumented Code - MagTape Demo](https://github.com/phenixblue/magtape/blob/otel-tracing/app/magtape/magtape.py)
+
 ## Meetup Slides
+
+- [An Intro to Distributed Tracing with OpenTelemetry](https://slides.com/phenixblue/intro-to-tracing-with-otel)
 
 ## Meetup Recordings
 - [Youtube](https://youtu.be/2mMED_7XatQ)
@@ -59,4 +64,5 @@
 
   - StormForge is looking for a Frontend Engineer: https://jobs.lever.co/stormforge/860aa644-9d91-4362-8920-da00c3dd9727
 
-###### tags: `meetup` <!--Add additional tags for `year`, `month` and anything else pertinent-->
+<!--Add additional tags for `year`, `month` and anything else pertinent-->
+###### tags: `meetup`, `2021`, `march`, `opentelemetry`, `otel`, `observability`, `metrics`, `logs`, `tracing`, `distributed tracing`, `magtape`, `python`, `lightstep`, `t-mobile`
