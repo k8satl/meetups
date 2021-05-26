@@ -14,11 +14,11 @@
             
     - **Joe Lupo @ T-Mobile**
 
-        Joe Searcy leverages 16 years of experience within infrastructure and distributed systems across Telecommunications, High Frequency Trading, and various other industries in his role as a Staff Engineer on the Platform Engineering team at T-Mobile. Joe helps lead a team of Rockstars to design, build, and maintain the various components that make up the TKE (T-Mobile Kubernetes Engine) platform and foster innovation at the Uncarrier.
+        Joe Lupo is a principal engineer at T-Mobile. With 25 years of experience in IT from helpdesk and desktop support to *NIX system administration and storage engineering, he has turned his attention to Kubernetes, specifically the T-Mobile Kubernetes Engine, with a focus on helping design and implement a "platform as code" model.
 
         - **Project Harbor: Intro and Failover Architecture**<!--presentation title-->
 
-            Joe Lupo is a principal engineer at T-Mobile. With 25 years of experience in IT from helpdesk and desktop support to *NIX system administration and storage engineering, he has turned his attention to Kubernetes, specifically the T-Mobile Kubernetes Engine, with a focus on helping design and implement a "platform as code" model.
+            Harbor is a Cloud Native Artifact Registry. In this talk we'll provide an overview of what Project Harbor is, what problems it can solve, and why you might decide to use it versus the likes of DockerHub, Quay.io, GCR, etc. We'll also explore an example failover architecture for how Harbor can be deployed across multiple Data Centers that balances operational complexity and artifact availability.
 
 
 - **Hosts:**
