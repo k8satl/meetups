@@ -1,0 +1,75 @@
+# Kubernetes Atlanta Meetup: May 2021<!--Month Year-->
+
+- **Date:** <!--date as MM.DD.YYYY-->
+- **Location:**
+    - Virtual via Zoom
+- **Speakers:**
+    - **Joe Searcy @ T-Mobile**
+    
+        Joe Searcy leverages 16 years of experience within infrastructure and distributed systems across Telecommunications, High Frequency Trading, and various other industries in his role as a Staff Engineer on the Platform Engineering team at T-Mobile. Joe helps lead a team of Rockstars to design, build, and maintain the various components that make up the TKE (T-Mobile Kubernetes Engine) platform and foster innovation at the Uncarrier.
+        
+        - **Multi-Architecture Image Builds for Kubernetes Workloads**<!--presentation title-->
+
+            We will introduce Docker's "buildx" tooling and how it can help ease the burden of building container images for multiple compute architectures (amd64, arm64, ppc64le, riscv64, etc.). We will also walk through a simple Github Actions workflow that shows how easy it can be to integrate "buildx" into your existing workflow and ease the burden of publishing multi-architecture images for you Kubernetes applications/projects.
+            
+    - **Joe Lupo @ T-Mobile**
+
+        Joe Searcy leverages 16 years of experience within infrastructure and distributed systems across Telecommunications, High Frequency Trading, and various other industries in his role as a Staff Engineer on the Platform Engineering team at T-Mobile. Joe helps lead a team of Rockstars to design, build, and maintain the various components that make up the TKE (T-Mobile Kubernetes Engine) platform and foster innovation at the Uncarrier.
+
+        - **Project Harbor: Intro and Failover Architecture**<!--presentation title-->
+
+            Joe Lupo is a principal engineer at T-Mobile. With 25 years of experience in IT from helpdesk and desktop support to *NIX system administration and storage engineering, he has turned his attention to Kubernetes, specifically the T-Mobile Kubernetes Engine, with a focus on helping design and implement a "platform as code" model.
+
+
+- **Hosts:**
+    - @alex.b
+    - @phenixblue
+
+## This Month in Kubernetes
+
+- 1.21.0 released
+    - [1.22 Release Cycle has begun](https://github.com/kubernetes/sig-release/tree/master/releases/release-1.22)
+        - v1.22.0-alpha.2 has been released
+    - Next Deadline: 
+        - Exception Requests Due, June 28
+        - July 8th: Code Freeze
+        - August 4th: Release
+    - Fix Releases
+        - v1.21.1
+        - v1.20.7
+        - v1.19.11
+        - v1.18.19
+- Promotions
+    - [Indexed Job to Beta](https://github.com/kubernetes/kubernetes/pull/101292)
+    - [Namespace selector affinity to beta](https://github.com/kubernetes/kubernetes/pull/101496)
+    - [Warning headers to GA](https://github.com/kubernetes/kubernetes/pull/100754)
+- Deprecations
+    - [Ingress v1beta1](https://github.com/kubernetes/kubernetes/pull/102030)
+- CVE's
+    - [CVE-2021-25736](https://github.com/kubernetes/kubernetes/pull/99958)
+    - [CVE-2021-25737](https://github.com/kubernetes/kubernetes/issues/102106)
+    - [CVE-2021-25738](https://github.com/kubernetes-client/java/issues/1698)
+- PR's of Note
+    - [Per field warning hooks](https://github.com/kubernetes/kubernetes/pull/101688)
+    - [Feature gate to disable all in-tree cloud providers](https://github.com/kubernetes/kubernetes/pull/100136)
+- Community News
+    - KubeCon EU
+        - [CNI Working on v2.0](https://kccnceu2021.sched.com/event/iE8W/towards-cni-v20-casey-callendrello-red-hat)
+        - [How cluster autoscaler scales](https://kccnceu2021.sched.com/event/iE7n/sig-autoscaling-deep-dive-and-qa-maciek-pytel-marcin-wielgus-google)
+    - [kcp: Minimal Kubenretes API](https://github.com/kcp-dev/kcp)
+    - [Kubewarden: Policy Engine for Kubernetes](https://www.kubewarden.io)
+    - [sigstore: A non-profit, public good software signing & transparency service](https://sigstore.dev)
+        - [cosign]((http://github.com/sigstore/cosign))
+## Meetup Links
+
+## Meetup Slides
+
+## Meetup Recordings
+
+## Meetup Notes
+
+### Who's Hiring 
+
+<!--Company Name: Positions hiring for (link to hiring page), Contact Name/email/etc-->
+
+###### tags: `meetup` `may` `2021` `image` `architecture` `arm` `ppc` `registry` `haror` `oci` `cri` `docker` `buildx` <!--Add additional tags for `year`, `month` and anything else pertinent-->
