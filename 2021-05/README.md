@@ -62,14 +62,24 @@
         - [cosign]((http://github.com/sigstore/cosign))
 ## Meetup Links
 
+- The KubeCon Europe presentations are now up as video recordings on YouTube https://www.youtube.com/channel/UCvqbFHwN-nwalWPjPUKpvTA
+
 ## Meetup Slides
+
+- https://slides.com/phenixblue/have-your-k8s-and-eat-it-too
+- https://slides.com/phenixblue/cloud-native-artifacts-roundtable
 
 ## Meetup Recordings
 
 ## Meetup Notes
 
+- https://hackmd.io/9-xwJoofTGu1i9Xw9cVvFQ
+
 ### Who's Hiring 
+
+- StormforgeIO is hiring a PS / Customer Success Engineer. If you like k8s, ML, and working at a company with fantastic culture...Reach out to Cody Crudgington on K8's slack @CodyC or twitter @thecrudge1
+- Hiring for currently AKS (eventually multi cloud), Terraform, Hub Spoke architecture, PaloAlto is a plus, but not mandatory. Please ping me (Vasant Javle) on linkedin
 
 <!--Company Name: Positions hiring for (link to hiring page), Contact Name/email/etc-->
 
-###### tags: `meetup` `may` `2021` `image` `architecture` `arm` `ppc` `registry` `haror` `oci` `cri` `docker` `buildx` <!--Add additional tags for `year`, `month` and anything else pertinent-->
+###### tags: `meetup` `may` `2021` `image` `architecture` `arm` `ppc` `registry` `haror` `oci` `cri` `docker` `buildx` `roundtable` <!--Add additional tags for `year`, `month` and anything else pertinent-->
