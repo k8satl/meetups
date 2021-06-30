@@ -66,6 +66,9 @@
 
 ## Meetup Slides
 
+- [Knative Intro](https://www.slideshare.net/JoeSearcy1/knative-intro)
+- [Knative Outro](https://www.slideshare.net/JoeSearcy1/knative-outro)
+
 ## Meetup Recordings
 - [Youtube](https://www.youtube.com/watch?v=Ceyf2QfnVqU)
 
