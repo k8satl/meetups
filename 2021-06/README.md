@@ -28,25 +28,40 @@
 
 ## This Month in Kubernetes
 
-- X.XX.X
+- v1.22 Release Cycle
+    - [v1.22.0-beta.0 Released](https://github.com/kubernetes/kubernetes/releases/tag/v1.22.0-beta.0)
+    - [One open critical/urgent bug left](https://github.com/kubernetes/kubernetes/issues/100914)
     - Next Deadline: 
-        - 
+        -  Code Freeze, July 8th
     - Fix Releases
-        - 
+        - v1.21.2
+        - v1.20.8
+        - v1.19.12
+        - v1.18.20
 - Promotions
-    - 
+    - [cronjob v2 to GA](https://github.com/kubernetes/kubernetes/pull/102529)
 - Deprecations
-    - 
+    - [kubectl --record](https://github.com/kubernetes/kubernetes/pull/102873)
+        - [Use http request annotation instead](https://github.com/kubernetes/enhancements/tree/master/keps/sig-cli/859-kubectl-headers)
+    - [Balanced Attached Node Volumes](https://github.com/kubernetes/kubernetes/pull/60525/)
+        - If you use these speak up now!
 - CVE's
-    - 
+    - NA
 - PR's of Note
-    - 
+    - [PodSecurity Admission](https://github.com/kubernetes/kubernetes/pull/103099)
+        - [KEP](https://github.com/kubernetes/enhancements/tree/master/keps/sig-auth/2579-psp-replacement)
+        - [Pod Security Standards](https://kubernetes.io/docs/concepts/security/pod-security-standards/)
+    - [Kube API Server supports Distributed Tracing](https://github.com/kubernetes/kubernetes/pull/94942)
+    - [kubectl command metadata in HTTP headers](https://github.com/kubernetes/enhancements/issues/859)
+    - [exec credential provider](https://github.com/kubernetes/kubernetes/pull/99310)
+    - [kubeadm controlplane run as non-root](https://github.com/kubernetes/kubernetes/pull/102759)
 - Community News
     - [Forklift: VMware virtual machines to KubeVirt](https://github.com/konveyor/forklift-documentation)
     - [vcluster: Virtual Clusters within Namespaces](https://github.com/loft-sh/vcluster)
     - [Capsule: multi-tenancy enhancements for K8s](https://github.com/clastix/capsule)
     - [PorterLB: Open Source LB for Baremetal K8s](https://github.com/kubesphere/porterlb)
     - [reconiler-runtime: Picking up where controller-runtime leaves off](https://github.com/vmware-labs/reconciler-runtime)
+    - [Source Code location in JSON logging](https://github.com/kubernetes/kubernetes/pull/102437)
 
 ## Meetup Links
 
