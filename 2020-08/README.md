@@ -102,7 +102,7 @@
 
 - Flamingo Sec
     - Container Security engineering position
-    - email to contact@flamingosec.com 
+    - email to contact@flamingosec.com
     - Startup K8 Security advisory services
 
 - VMware

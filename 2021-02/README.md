@@ -1,6 +1,6 @@
 # Kubernetes Atlanta Meetup: February 2021<!--Month Year-->
 
-- **Date:** 02-24-2021<!--date as MM.DD.YYYY-->
+- **Date:** 02.24.2021<!--date as MM.DD.YYYY-->
 - **Location:**
     - [Virtual via Zoom](https://www.meetup.com/Kubernetes-Atlanta-Meetup/events/276201050/)
 - **Speakers:**

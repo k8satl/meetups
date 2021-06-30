@@ -1,6 +1,6 @@
 # Kubernetes Atlanta Meetup: September 2020<!--Month Year-->
 
-- **Date:** <!--date as MM.DD.YYYY-->
+- **Date:** 09.30.2020<!--date as MM.DD.YYYY-->
 - **Location:**
     - [Virtual via Zoom](https://www.meetup.com/Kubernetes-Atlanta-Meetup/events/272847703/)
     - NOTE: You must login to Meetup to view the Zoom link
