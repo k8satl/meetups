@@ -42,7 +42,12 @@
 - PR's of Note
     - 
 - Community News
-    - 
+    - [Forklift: VMware virtual machines to KubeVirt](https://github.com/konveyor/forklift-documentation)
+    - [vcluster: Virtual Clusters within Namespaces](https://github.com/loft-sh/vcluster)
+    - [Capsule: multi-tenancy enhancements for K8s](https://github.com/clastix/capsule)
+    - [PorterLB: Open Source LB for Baremetal K8s](https://github.com/kubesphere/porterlb)
+    - [reconiler-runtime: Picking up where controller-runtime leaves off](https://github.com/vmware-labs/reconciler-runtime)
+
 ## Meetup Links
 
 ## Meetup Slides
