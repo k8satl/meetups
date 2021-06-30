@@ -55,15 +55,17 @@
     - [kubectl command metadata in HTTP headers](https://github.com/kubernetes/enhancements/issues/859)
     - [exec credential provider](https://github.com/kubernetes/kubernetes/pull/99310)
     - [kubeadm controlplane run as non-root](https://github.com/kubernetes/kubernetes/pull/102759)
+    - [Source Code location in JSON logging](https://github.com/kubernetes/kubernetes/pull/102437)
 - Community News
     - [Forklift: VMware virtual machines to KubeVirt](https://github.com/konveyor/forklift-documentation)
     - [vcluster: Virtual Clusters within Namespaces](https://github.com/loft-sh/vcluster)
     - [Capsule: multi-tenancy enhancements for K8s](https://github.com/clastix/capsule)
     - [PorterLB: Open Source LB for Baremetal K8s](https://github.com/kubesphere/porterlb)
     - [reconiler-runtime: Picking up where controller-runtime leaves off](https://github.com/vmware-labs/reconciler-runtime)
-    - [Source Code location in JSON logging](https://github.com/kubernetes/kubernetes/pull/102437)
 
 ## Meetup Links
+
+- [https://github.com/adrienjt/demo-k8s-atlanta-meetup](https://github.com/adrienjt/demo-k8s-atlanta-meetup)
 
 ## Meetup Slides
 
