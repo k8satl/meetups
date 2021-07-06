@@ -70,6 +70,7 @@
 ## Meetup Slides
 
 ## Meetup Recordings
+- [Youtube](https://youtu.be/fQpK_AFbK4o)
 
 ## Meetup Notes
 
