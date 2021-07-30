@@ -49,6 +49,7 @@
     - NA
 - Community News
     - [Contributor Summit NA 2021 planning has begun!](https://www.kubernetes.dev/events/kcsna2021/)
+    - [Linkerd got a diploma!](https://www.cncf.io/announcements/2021/07/28/cloud-native-computing-foundation-announces-linkerd-graduation/)
     - [Fejta Bot retired, long live k8s-triage-robot](https://groups.google.com/g/kubernetes-dev/c/oD_ijk7jpa8)
         - [Fun times with Fejta Bot](https://github.com/kubernetes/test-infra/issues/6464)
         - Thanks @fejta
@@ -67,11 +68,30 @@
 ## Meetup Slides
 
 ## Meetup Recordings
+- [Youtube](https://www.youtube.com/watch?v=-qobGMh-RlU)
 
 ## Meetup Notes
 
 ### Who's Hiring 
 
-<!--Company Name: Positions hiring for (link to hiring page), Contact Name/email/etc-->
+- Suse
+    - https://suse.com -
+    - email nick.gerace@suse.com
+
+- VMWare Tanzu
+    - K8s Solution Engineer opening with VMware Tanzu in Atlanta: https://www.linkedin.com/jobs/view/2660451807
+    - and in Florida: https://www.linkedin.com/jobs/view/2658968817
+    - Apply thru link or email at makrishna@vmware.com
+
+ - Speedscale
+    - https://speedscale.com/careers/
+    - We’re a local ATL startup hiring for front end, back end and everything in between. Our product is heavy on K8s, golang, gRPC and all the latest toys. Give ma shout at matt@speedscale.com!
+
+  - Upbound
+    - upbound.io, creators of the CNCF open source Crossplane project, are hiring for a bunch of roles! K8s engineers, SRE, dev advocate, solutions engineers, etc.  https://boards.greenhouse.io/upbound
+
+  - Isovalent
+    - we are hiring at isovalent as well https://www.isovalent.com/careers
+    - you can reach out to dcooley@isovalent.com or @mauilion everywhere.
 
 ###### tags: `meetup` `2021`, `july`, `isovalent`, `cilium`, `ebpf`, `upbound`, `crossplan.io`, `network`, `security`, `observability`<!--Add additional tags for `year`, `month` and anything else pertinent-->
