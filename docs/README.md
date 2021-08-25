@@ -9,6 +9,11 @@
 - Setup Meetup Event
   - Copy exiting Meetup and edit for new Meetup as appropriate
   - All Virtual for now....specific spot in Meetup fields to put Zoom link (this is good to prevent non-auth'd accounts and Zoom Spam)
+- Collect K8s News
+  - Here are some common places to check for K8s news. It's also good to scour Twitter and the Mailing lists:
+    - https://lwkd.info
+    - https://kubenews.net/
+    - https://kubernetes.io/blog/
 
 ## Day Before Meetup
 
