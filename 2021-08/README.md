@@ -50,9 +50,11 @@
     - [Git powered K8s Controller](https://github.com/ibuildthecloud/gitbacked-controller)
     - [OCI Base Image Annotations](https://github.com/ImJasonH/ImJasonH/tree/main/articles/oci-base-image-annotations)
     - [Kubernetes Benchmark Operator](https://github.com/ImJasonH/ImJasonH/tree/main/articles/oci-base-image-annotations)
-
+    - [Sysdig Overview of what's new in K8s 1.22](https://sysdig.com/blog/kubernetes-1-22-whats-new/)
 
 ## Meetup Links
+
+- [Moshe's Demo - Basic Go API](https://github.com/moshitrit/basic-go-api)
 
 ## Meetup Slides
 
