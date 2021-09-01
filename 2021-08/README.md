@@ -59,11 +59,36 @@
 ## Meetup Slides
 
 ## Meetup Recordings
+- [Youtube](https://www.youtube.com/watch?v=nEGfF1ZdF8Y)
 
 ## Meetup Notes
 
+- Beta announcements:
+  - Lawrence - Real Theory
+    - RealTheory – Ready for Beta Testers!
+
+    - RealTheory is building a self-optimization platform for kubernetes applications. Our first product is a freemium Kubernetes Intelligence Platform. This is an awesome product that is ready for the next cohort of beta testing. If you use k8s in your day job and have access to a test cluster, we would love your feedback!
+
+    - If interested – contact us a LG@RealTheory.io
+    - P.S. – We are always hiring! You only need to commit to 5 hours a week. Work anywhere, anytime.
+
+  - Tim Dorr - Spaceship
+    - Here's my scheduling link: https://calendly.com/spaceship-tim
+    - If you want to see it in action, here's a short demo video: https://www.loom.com/share/afb2e289bd534a138c636c28829d7b31
+    - You can also email me at tim@spaceship.run
+
 ### Who's Hiring 
 
-<!--Company Name: Positions hiring for (link to hiring page), Contact Name/email/etc-->
+- Andy Holtzmann - PE on my team managing Equinix Metal’s Kubernetes platform globally. https://careers.equinix.com/jobs/principal-engineer-bare-metal-provisioning-equinix-metal-sunnyvale-california-united-states-ashburn-virginia-atlanta-georgia-chicago-illinois-cleveland-ohio-el-segundo-frisco-texas-houston-na
+
+- Jeff Spahr - I started a new role at Lenovo a month ago and I have several open roles:
+https://jobs.lenovo.com/en_US/careers/JobDetail/DevOps-Advisory-Engineer-Cloud-Platform-DevOps/27037
+This role can also be 100% remote.  Feel free to reach out to me directly at jspahr@lenovo.com.  I'm the hiring manager.
+
+- Krijan - Global payments, DevOps Lead: https://tsys.wd1.myworkdayjobs.com/TSYS/job/Alpharetta-Georgia-USA/DevOps-Lead_R0024836
+    - kkothapalli@tsys.com
+    - krijan@gmail.com
+
+
 
 ###### tags: `meetup` <!--Add additional tags for `year`, `month` and anything else pertinent-->
