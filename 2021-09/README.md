@@ -57,6 +57,8 @@
 
 ## Meetup Links
 
+- [Machine Learning Workshop Guides](https://github.com/Red-Hat-SE-RTO/machine-learning-workshop-guides)
+
 ## Meetup Slides
 
 ## Meetup Recordings
@@ -67,4 +69,4 @@
 
 <!--Company Name: Positions hiring for (link to hiring page), Contact Name/email/etc-->
 
-###### tags: `meetup` <!--Add additional tags for `year`, `month` and anything else pertinent-->
+###### tags: `meetup` `september` `2021` `data science` `jupyter` `tensorflow`<!--Add additional tags for `year`, `month` and anything else pertinent-->
