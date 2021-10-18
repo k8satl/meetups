@@ -62,11 +62,17 @@
 ## Meetup Slides
 
 ## Meetup Recordings
+- [Youtube](https://www.youtube.com/watch?v=8p7MSTPa0gw)
 
 ## Meetup Notes
 
 ### Who's Hiring 
 
-<!--Company Name: Positions hiring for (link to hiring page), Contact Name/email/etc-->
+- Salesloft:
+    - SRE: https://salesloft.com/careers/?gh_jid=3246302
+
+- Redhat:
+    - Cloud Specialist Solutions Architect: https://us-redhat.icims.com/jobs/89335/cloud-specialist-solutions-architect/job?hub=7
+    - Senior Cloud Specialist Solutions Architect: https://us-redhat.icims.com/jobs/89094/senior-cloud-specialist-solutions-architect/job?hub=7&mobile=false&width=1140&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240
 
 ###### tags: `meetup` `september` `2021` `data science` `jupyter` `tensorflow`<!--Add additional tags for `year`, `month` and anything else pertinent-->
