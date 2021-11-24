@@ -61,11 +61,11 @@
 ## Meetup Slides
 
 ## Meetup Recordings
-- [Youtube]()
+- [Youtube](https://www.youtube.com/watch?v=PuTJ176djsc)
 
 ## Meetup Notes
 
 ### Who's Hiring 
-
+- DigitalOcean is hiring a senior engineer for our app platform team: https://www.digitalocean.com/careers/position/apply/?gh_jid=3517964 I’m happy to answer questions about the team slevy@digitalocean.com.
 
 ###### tags: `meetup` `november` `2021` `sbom` `chainguard` `sigstore` `opa` `gatekeeper`<!--Add additional tags for `year`, `month` and anything else pertinent-->
