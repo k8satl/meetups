@@ -43,15 +43,21 @@
 - Promotions <!-- List of any interesting feature/API promotions -->
     - NA
 - Deprecations <!-- List of any interesting feature/API deprecations -->
-    - NA
+    - [kubeadm removed Dockershim support](https://github.com/kubernetes/kubernetes/pull/107317)
 - CVE's <!-- List of any Kubernetes related CVE's -->
     - NA
 - PR's of Note <!-- List of any interesting PR's to the Kubernetes project (use lwkd.io) -->
-    - 
-
+    - [Reserve Service IP Ranges](https://github.com/kubernetes/enhancements/pull/3071)
+        - [KEP](https://github.com/kubernetes/enhancements/issues/3070)
 - Community News <!-- List of any interesting news from the Kubernetes community/ecosystem -->
+    - [dev@kubernetes.io is the new kubernetes-dev@googlegroups](https://groups.google.com/a/kubernetes.io/g/dev/)
     - [Kubernetes - The Documentary (part 1)](https://www.youtube.com/watch?v=BE77h7dmoQU)
-
+    - [New API for job queueing proposed](http://bit.ly/kueue-apis)
+    - [Strip unwanted metadata fields from "kubectl --dry-run"](https://github.com/kubernetes/kubernetes/pull/107088)
+    - [Octo CLI - Make Databases look like Web API's](https://github.com/octoproject/octo-cli)
+    - [Securing Admission Controllers](https://kubernetes.io/blog/2022/01/19/secure-your-admission-controllers-and-webhooks/)
+        - [Threat model for Admission Controllers](https://github.com/kubernetes/sig-security/tree/main/sig-security-docs/papers/admission-control)
+    - [Detecting Container Drift at Runtime](https://kubernetes.io/blog/2021/12/21/admission-controllers-for-container-drift/)
 
 
 ## Meetup Links
@@ -59,12 +65,15 @@
 
 ## Meetup Slides
 
+
 ## Meetup Recordings
+
 - TBD
 
 ## Meetup Notes
 
+
 ### Who's Hiring 
 
 
-###### tags: `meetup` `january` `2022` `kyverno` `tekton` <!--Add additional tags for `year`, `month` and anything else pertinent-->
+###### tags: `meetup` `january` `2022` `kyverno` `policy-as-code` `admission controller` `tekton` `chains` `supply chain` `security`<!--Add additional tags for `year`, `month` and anything else pertinent-->
