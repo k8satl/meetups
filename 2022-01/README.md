@@ -68,12 +68,16 @@
 
 ## Meetup Recordings
 
-- TBD
+- [Youtube](https://youtu.be/BL9BAaGmOs8)
 
 ## Meetup Notes
 
 
 ### Who's Hiring 
+- Roy Duvall - CTO at Calendly - We have an open SRE role that is 100% remote on an outstanding GCP/GKE based platform team. Check out the job description, https://careers.calendly.com/jobs/job/126-site-reliability-engineer, or reach out to r.duvall@calendly.com
 
+- Currently looking for Senior Azure, AKS, terraform and kubernetes engg. with preferably .NET workloads (but open for experience with other workloads as well). If interested, please reach out on vjavle@hotmail.com. Completely remote role. Org name would be invoicecloud.com
+
+- Red Hat is hiring pre-sales technical "Solution Architects"  This is an Atlanta area position. OpenShift Kubernetes runs on any cloud so all of your cloud, k8s, and app-dev experience is valued. The contact is msolberg@redhat.com   - jbarlow@redhat.com
 
 ###### tags: `meetup` `january` `2022` `kyverno` `policy-as-code` `admission controller` `tekton` `chains` `supply chain` `security`<!--Add additional tags for `year`, `month` and anything else pertinent-->
