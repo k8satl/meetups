@@ -52,7 +52,7 @@
         * https://occlum.io
         * https://software.intel.com/content/www/us/en/develop/topics/software-guard-extensions.html
         * https://graphene.readthedocs.io/en/latest/oldwiki/Introduction-to-Graphene-SGX.html
-    * [Cluster API ClusterClass & Managed Topologies](https://github.com/kubernetes-sigs/cluster-api/blob/master/docs/proposals/202105256-cluster-class-and-managed-topologies.md)
+    * [Cluster API ClusterClass & Managed Topologies](https://github.com/kubernetes-sigs/cluster-api/blob/master/docs/proposals/20210526-cluster-class-and-managed-topologies.md)
     * [KinK - KinD in Kubernetes](https://github.com/Trendyol/kink)
 
 ## Meetup Links
