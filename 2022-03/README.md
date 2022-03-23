@@ -70,6 +70,7 @@
     - [Updates to Kubernetes Hardening Guide](https://www.cisa.gov/uscert/ncas/current-activity/2022/03/15/updated-kubernetes-hardening-guide?utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_cRPRGtJvhFFUoykn-L39N8IiwIraw9ogRBZcGVSPUmOn3qvdBRQvPSXRvm61OPFn2Ukkn)
     - [Static code analysis for infra-as-code and k8s resources](https://github.com/bridgecrewio/checkov)
     - [ktop: Top for K8s](https://github.com/vladimirvivien/ktop)
+    - [Sonobuoy skeleton plugin](https://github.com/vmware-tanzu/sonobuoy-plugins/tree/main/examples/e2e-skeleton)
 
 ## Meetup Links
 
