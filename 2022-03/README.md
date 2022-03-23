@@ -37,14 +37,14 @@
 
 ## This Month in Kubernetes
 
-- vX.XX Release Cycle <!-- Link to latest release for the current K8s release cycle -->
-    - 
+- v1.24 Release Cycle <!-- Link to latest release for the current K8s release cycle -->
+    - Kubernetes v1.24.0-alpha.4
     - Next Deadline: <!-- Date and general description for the next release cycle deadline -->
-        - 
+        - Code Freeze, March 30th
     - Fix Releases <!-- List of latest fix releases for supported/maintained Kubernetes version -->
-        - v1.XX.X
-        - v1.YY.Y
-        - v1.ZZ.Z
+        - v1.23.5
+        - v1.22.8
+        - v1.21.11
 - Promotions <!-- List of any interesting feature/API promotions -->
     - NA
 - Deprecations <!-- List of any interesting feature/API deprecations -->
@@ -52,9 +52,24 @@
 - CVE's <!-- List of any Kubernetes related CVE's -->
     - NA
 - PR's of Note <!-- List of any interesting PR's to the Kubernetes project (use lwkd.io) -->
-    - NA
+    - [No auto-generation of secret-based service account token](https://github.com/kubernetes/kubernetes/pull/108309)
+    - [Disabling beta API's by default](https://github.com/kubernetes/enhancements/pull/3137)
+        - [Issue](https://github.com/kubernetes/enhancements/issues/3136)
+        - [KEP](https://github.com/kubernetes/enhancements/pull/3137)
+        - [Add CEL runtime cost into CR validation](https://github.com/kubernetes/kubernetes/pull/108482)
 - Community News <!-- List of any interesting news from the Kubernetes community/ecosystem -->
-    - NA
+    - K8s Reliability Discussions
+        - [KEP](https://github.com/kubernetes/enhancements/pull/3139)
+        - [Dev Thread](https://groups.google.com/a/kubernetes.io/g/dev/c/ai8SetaxYuk)
+    - Dockershim Removal
+        - [Committment and Next Steps](https://kubernetes.io/blog/2022/01/07/kubernetes-is-moving-on-from-dockershim/)
+        - [Migrating from Dockershim](https://kubernetes.io/docs/tasks/administer-cluster/migrating-from-dockershim/)
+        - [FAQ](https://kubernetes.io/blog/2022/02/17/dockershim-faq/)
+    - [Spotlight on SIG Multicluster](https://kubernetes.io/blog/2022/02/17/dockershim-faq/)
+    - [Scripting with Go](https://github.com/bitfield/script)
+    - [Updates to Kubernetes Hardening Guide](https://www.cisa.gov/uscert/ncas/current-activity/2022/03/15/updated-kubernetes-hardening-guide?utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_cRPRGtJvhFFUoykn-L39N8IiwIraw9ogRBZcGVSPUmOn3qvdBRQvPSXRvm61OPFn2Ukkn)
+    - [Static code analysis for infra-as-code and k8s resources](https://github.com/bridgecrewio/checkov)
+    - [ktop: Top for K8s](https://github.com/vladimirvivien/ktop)
 
 ## Meetup Links
 
@@ -68,4 +83,4 @@
 
 <!--Company Name: Positions hiring for (link to hiring page), Contact Name/email/etc-->
 
-###### tags: `meetup` <!--Add additional tags for `year`, `month` and anything else pertinent-->
+###### tags: `meetup` `march` `2022` `gitops` `flux` `pinniped` `performance` `benchmarking` `locust` `dbench` `netperf` `sonobuoy` `loadtest`<!--Add additional tags for `year`, `month` and anything else pertinent-->
