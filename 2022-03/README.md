@@ -56,7 +56,7 @@
     - [Disabling beta API's by default](https://github.com/kubernetes/enhancements/pull/3137)
         - [Issue](https://github.com/kubernetes/enhancements/issues/3136)
         - [KEP](https://github.com/kubernetes/enhancements/pull/3137)
-        - [Add CEL runtime cost into CR validation](https://github.com/kubernetes/kubernetes/pull/108482)
+    - [Add CEL runtime cost into CR validation](https://github.com/kubernetes/kubernetes/pull/108482)
 - Community News <!-- List of any interesting news from the Kubernetes community/ecosystem -->
     - K8s Reliability Discussions
         - [KEP](https://github.com/kubernetes/enhancements/pull/3139)
@@ -65,7 +65,7 @@
         - [Committment and Next Steps](https://kubernetes.io/blog/2022/01/07/kubernetes-is-moving-on-from-dockershim/)
         - [Migrating from Dockershim](https://kubernetes.io/docs/tasks/administer-cluster/migrating-from-dockershim/)
         - [FAQ](https://kubernetes.io/blog/2022/02/17/dockershim-faq/)
-    - [Spotlight on SIG Multicluster](https://kubernetes.io/blog/2022/02/17/dockershim-faq/)
+    - [Spotlight on SIG Multicluster](https://kubernetes.io/blog/2022/02/07/sig-multicluster-spotlight-2022/)
     - [Scripting with Go](https://github.com/bitfield/script)
     - [Updates to Kubernetes Hardening Guide](https://www.cisa.gov/uscert/ncas/current-activity/2022/03/15/updated-kubernetes-hardening-guide?utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_cRPRGtJvhFFUoykn-L39N8IiwIraw9ogRBZcGVSPUmOn3qvdBRQvPSXRvm61OPFn2Ukkn)
     - [Static code analysis for infra-as-code and k8s resources](https://github.com/bridgecrewio/checkov)
