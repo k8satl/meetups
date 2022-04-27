@@ -27,24 +27,33 @@
 
 ## This Month in Kubernetes
 
-- vX.XX Release Cycle <!-- Link to latest release for the current K8s release cycle -->
-    - 
-    - Next Deadline: <!-- Date and general description for the next release cycle deadline -->
+- v1.24 Release Cycle <!-- Link to latest release for the current K8s release cycle -->
+    - [v1.24.0-rc.1 is available](https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG/CHANGELOG-1.24.md)
+    - Next Deadline: Release, May 3rd<!-- Date and general description for the next release cycle deadline -->
         - 
     - Fix Releases <!-- List of latest fix releases for supported/maintained Kubernetes version -->
-        - v1.XX.X
-        - v1.YY.Y
-        - v1.ZZ.Z
+        - v1.23.6
+        - v1.22.9
+        - v1.21.12
 - Promotions <!-- List of any interesting feature/API promotions -->
     - NA
 - Deprecations <!-- List of any interesting feature/API deprecations -->
     - NA
 - CVE's <!-- List of any Kubernetes related CVE's -->
-    - NA
+    - [CVE-2021-25745 (Nginx Ingress)](https://github.com/kubernetes/ingress-nginx/issues/8502)
+    - [CVE-2021-25746 (Nginx Ingress)](https://github.com/kubernetes/ingress-nginx/issues/8503)
 - PR's of Note <!-- List of any interesting PR's to the Kubernetes project (use lwkd.io) -->
-    - NA
+    - [Cronjobs suport timezones](https://github.com/kubernetes/kubernetes/pull/108032)
 - Community News <!-- List of any interesting news from the Kubernetes community/ecosystem -->
-    - NA
+    - [All Kubernetes developers should update their dev environments to go 1.18.1](https://github.com/kubernetes/kubernetes/pull/109484)
+    - [Etcd 3.5.X has a significant data corruption issue](https://github.com/etcd-io/etcd/issues/13766)
+    - [Removals & Deprecations in K8s v1.24](https://kubernetes.io/blog/2022/04/07/upcoming-changes-in-kubernetes-1-24/)
+    - [PacketStreamer: distributed packet capture for cloud-native platforms](https://github.com/deepfence/PacketStreamer)
+        - [Introduction](https://medium.com/deepfence-cloud-native-security/introducing-packetstreamer-distributed-packet-capture-for-cloud-native-platforms-3e7f9ac57ab1)
+    - [Bring your own CNI - AKS](https://pixelrobots.co.uk/2022/04/bring-your-own-container-network-interface-cni-plugin-with-azure-kubernetes-service-aks-preview/)
+    - [Gitlab managed Terraform State](https://docs.gitlab.com/ee/user/infrastructure/iac/terraform_state.html)
+    - [Qbec: Multi-Cluster Object Management](https://qbec.io)
+    - [Capsule: K8s Multi-tenancy Operator](https://github.com/clastix/capsule)
 
 ## Meetup Links
 
@@ -58,4 +67,4 @@
 
 <!--Company Name: Positions hiring for (link to hiring page), Contact Name/email/etc-->
 
-###### tags: `meetup` <!--Add additional tags for `year`, `month` and anything else pertinent-->
+###### tags: `meetup` `april` `2022` `redkube` `otomi` `security` `isovalent` `cilium` `multus` `cni`<!--Add additional tags for `year`, `month` and anything else pertinent-->
