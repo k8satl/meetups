@@ -43,7 +43,7 @@
     - [CVE-2021-25745 (Nginx Ingress)](https://github.com/kubernetes/ingress-nginx/issues/8502)
     - [CVE-2021-25746 (Nginx Ingress)](https://github.com/kubernetes/ingress-nginx/issues/8503)
 - PR's of Note <!-- List of any interesting PR's to the Kubernetes project (use lwkd.io) -->
-    - [Cronjobs suport timezones](https://github.com/kubernetes/kubernetes/pull/108032)
+    - [Timezone support for K8s Cronjobs](https://github.com/kubernetes/kubernetes/pull/108032)
 - Community News <!-- List of any interesting news from the Kubernetes community/ecosystem -->
     - [All Kubernetes developers should update their dev environments to go 1.18.1](https://github.com/kubernetes/kubernetes/pull/109484)
     - [Etcd 3.5.X has a significant data corruption issue](https://github.com/etcd-io/etcd/issues/13766)
