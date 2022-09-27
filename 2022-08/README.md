@@ -42,7 +42,6 @@
     - [Deprecated beta node labels (e.g. failure-domain.beta.kubernetes.io/zone) will result in a warning in more places](https://github.com/kubernetes/kubernetes/pull/108554)
     - [The /logs endpoint for kube-apiserver is no longer enabled by default; set --enable-logs-handler to re-enable](https://groups.google.com/a/kubernetes.io/g/dev/c/OkSc6KLmD0Q)
         - [Security Concerns](https://github.com/kubernetes/kubernetes/issues/77182)
-    - 
 - CVE's <!-- List of any Kubernetes related CVE's -->
     - [enhancements#3204: KEP-3203: Add Auto-refreshing Official CVE feed](https://github.com/kubernetes/enhancements/pull/3204)
         - [KEP](https://github.com/kubernetes/enhancements/tree/master/keps/sig-security/3203-auto-refreshing-official-cve-feed)
@@ -60,13 +59,14 @@
     - [kube-fledged: Operator for caching container Images directly on nodes](https://github.com/senthilrch/kube-fledged)
     - [A web-based simulator for the Kubernetes scheduler](https://github.com/kubernetes-sigs/kube-scheduler-simulator)
     - [Scaling Kubernetes to Thousands of CRDs](https://blog.upbound.io/scaling-kubernetes-to-thousands-of-crds/)
-    - https://github.com/open-telemetry/opentelemetry-operator#opentelemetry-operator-for-kubernetes
+    - [OpenTelemetry Operator](https://github.com/open-telemetry/opentelemetry-operator#opentelemetry-operator-for-kubernetes)
 
 ## Meetup Links
 
 ## Meetup Slides
 
 ## Meetup Recordings
+- [Youtube](https://youtu.be/MrI-IIVqx7g)
 
 ## Meetup Notes
 
