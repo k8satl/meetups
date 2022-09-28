@@ -51,7 +51,7 @@ See you for the demo!
     - [CVE-2022-3172 - Allows aggregated API servers to misdirect traffic and steal credentials](https://github.com/kubernetes/kubernetes/issues/112513)
     - [CVE-2021-2574](https://github.com/kubernetes/kubernetes/issues/112192)
 - PR's of Note <!-- List of any interesting PR's to the Kubernetes project (use lwkd.io) -->
-    - [Add auth API to get self subject attributes](https://github.com/kubernetes/kubernetes/pull/111333
+    - [Add auth API to get self subject attributes](https://github.com/kubernetes/kubernetes/pull/111333)
 - Community News <!-- List of any interesting news from the Kubernetes community/ecosystem -->
     - [COSI: Object Storage Management using Kubernetes](https://kubernetes.io/blog/2022/09/02/cosi-kubernetes-object-storage-management/)
     - [Security Checklist for Clusters](https://kubernetes.io/docs/concepts/security/security-checklist/)
