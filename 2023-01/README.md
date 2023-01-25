@@ -34,24 +34,30 @@
 
 ## This Month in Kubernetes
 
-- vX.XX Release Cycle <!-- Link to latest release for the current K8s release cycle -->
+- v1.27 Release Cycle <!-- Link to latest release for the current K8s release cycle -->
     - 
     - Next Deadline: <!-- Date and general description for the next release cycle deadline -->
-        - 
-    - Fix Releases <!-- List of latest fix releases for supported/maintained Kubernetes version -->
-        - v1.XX.X
-        - v1.YY.Y
-        - v1.ZZ.Z
+        - Begin [PRR](https://github.com/kubernetes/enhancements/tree/master/keps/sig-architecture/1194-prod-readiness) reviews, February 2nd
+    - Fix Releases (Updates to Golang to fix [known security holes](https://github.com/advisories/GHSA-xrjj-mj9h-534m))<!-- List of latest fix releases for supported/maintained Kubernetes version -->
+        - v1.26.1
+        - v1.25.6
+        - v1.24.10
+        - v1.23.16
 - Promotions <!-- List of any interesting feature/API promotions -->
     - NA
 - Deprecations <!-- List of any interesting feature/API deprecations -->
-    - NA
+    - [Removing PSP code](https://github.com/kubernetes/kubernetes/pull/113467)
+    - Leader Elections using ConfigMaps or Secrets will [be going away at some point in the future](https://github.com/kubernetes/kubernetes/pull/114055) and everyone should be using Leases instead
 - CVE's <!-- List of any Kubernetes related CVE's -->
     - NA
 - PR's of Note <!-- List of any interesting PR's to the Kubernetes project (use lwkd.io) -->
-    - NA
+    - [Autoscaling v2 API](https://github.com/kubernetes/kubernetes/pull/114358) is now preffered, and v1 will be moving towards deprecation
 - Community News <!-- List of any interesting news from the Kubernetes community/ecosystem -->
-    - NA
+    - [Troubleshoot](https://troubleshoot.sh/) - A kubectl plugin for collecting k8s cluster diagnostic info
+    - [API Server Adventure Series: Part I - The Storage Interface](https://danielmangum.com/posts/k8s-asa-the-storage-interface/)
+    - [A visual guide to K8s Pod Probes](https://speakerdeck.com/thockin/kubernetes-pod-probes)
+    - [K8s Failure Stories](https://k8s.af)
+    - [Clusterpedia - The Encyclopedia of Kubernetes clusters](https://github.com/clusterpedia-io/clusterpedia)
 
 ## Meetup Links
 
