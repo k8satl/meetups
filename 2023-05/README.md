@@ -1,4 +1,4 @@
-# Kubernetes Atlanta Meetup: May 2023<!--Month Year-->
+# Kubernetes Atlanta Meetup: May 2023
 
 - **Date:** 05.31.2023<!--date as MM.DD.YYYY-->
 - **Location:**
@@ -66,6 +66,8 @@
     - [kui - hybrid CLI/UI Development Experience](https://github.com/kubernetes-sigs/kui)
 
 ## Meetup Links
+
+- [Victor/Whitney's Demo Stuff](https://github.com/vfarcic/cncf-demo)
 
 ## Meetup Slides
 
