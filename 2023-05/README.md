@@ -68,6 +68,9 @@
 ## Meetup Links
 
 - [Victor/Whitney's Demo Stuff](https://github.com/vfarcic/cncf-demo)
+- [Budha/Sedky - Demo APIGW Ingress](https://dev.tyk-demo.com/)
+- [Budha/Sedky - Demo Repo](https://github.com/sedkis/tyk-cicd-demo)
+- [Budga/Sedky - Demo Node.js Starter](https://github.com/web-starter-templates/firebase-node-ts-backend)
 
 ## Meetup Slides
 
